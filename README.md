@@ -1,2 +1,2 @@
 # UnabomberParkerBot
-Unabomber's Manifest + Dorothy Parker poems/quotes Twitter Bot
+Rewrites poems and quotes from Dorothy Parker by inserting nouns, verbs, and adjectives from the Unabomber's Manifesto.
